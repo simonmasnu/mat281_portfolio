@@ -9,6 +9,7 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
+<<<<<<< HEAD
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_2019S2/master?urlpath=lab)
 
 * **Docentes**:  
@@ -39,3 +40,23 @@
 
 ## Consejos
 [![HowToCode](./images/saint_curious_george.png)](https://abstrusegoose.com/353)
+=======
+## Personal Portafolio
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/simonmasnu/mat281_portfolio/master?urlpath=lab)
+
+* __Simón Masnú__ : [](https://www.linkedin.com/in/williamhgates/)
+
+* __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
+
+* __Licencia__: [MIT](./LICENCE.md)
+
+
+Recopilación de laboratorios, tareas y proyectos de la asignatura MAT281 correspondiente al segundo semestre del año 2019.
+
+Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono _launch binder_ que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
+
+
+
+>>>>>>> 63c6ae13a987860999a1c00b16c8821746f93de2
