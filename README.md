@@ -27,6 +27,3 @@ Recopilación de laboratorios, tareas y proyectos de la asignatura MAT281 corres
 
 Es posible ejecutar y explorar interactivamente los jupyter notebooks de este repositorio clickeando en el icono _launch binder_ que se encuentra bajo el título. Esperar hasta que se abra una instancia de JupyterLab.
 
-
-
->>>>>>> 63c6ae13a987860999a1c00b16c8821746f93de2
