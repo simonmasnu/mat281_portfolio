@@ -4,13 +4,7 @@ channels:
   - defaults
 dependencies:
   - altair=3
-<<<<<<< HEAD
-  - ipywidgets=7.5.1
-  - jupyterlab=1.2.0
-  - jupyter_contrib_nbextensions
-=======
   - jupyterlab=1.0.9
->>>>>>> 63c6ae13a987860999a1c00b16c8821746f93de2
   - matplotlib=3.1.1
   - nodejs=12.8
   - numpy=1.17.0
